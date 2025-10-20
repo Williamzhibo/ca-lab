@@ -245,4 +245,4 @@ This code will update the application to display the view corresponding to the `
 
 > Thought Question: Can you think of any alternatives to our `ViewManager` implementation for managing multiple views?
 
----
+---SQAA
